@@ -31,7 +31,7 @@ import java.util.Scanner;
  * @author Peter Xiong
  * @version 2018
  */
-public class May30_BinarySearch {
+public class BinarySearch {
     
 public static void main(String[] args) {
     int[] myArray = {1,2,23,34,45,56,66,68,78,90};
